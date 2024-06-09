@@ -1,2 +1,3 @@
 # ALialina
 testing
+test check
